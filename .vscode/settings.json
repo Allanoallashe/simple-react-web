@@ -1,0 +1,13 @@
+{
+  "prettier.bracketSameLine": true,
+  "prettier.endOfLine": "auto",
+  "prettier.insertPragma": true,
+  "prettier.proseWrap": "always",
+  "prettier.requireConfig": true,
+  "prettier.requirePragma": true,
+  "prettier.useTabs": true,
+  "prettier.withNodeModules": true,
+  "prettier.vueIndentScriptAndStyle": true,
+  "prettier.singleAttributePerLine": true,
+  "prettier.jsxSingleQuote": true
+}
