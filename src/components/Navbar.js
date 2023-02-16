@@ -36,7 +36,7 @@ const showButton = () => {
         </div>
         <ul className={click ? 'nav-menu active' : 'nav-menu'}>
           <li className='nav-item'>
-            <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+            <Link to='/Home' className='nav-links' onClick={closeMobileMenu}>
                 Home
             </Link>
           </li>
@@ -51,7 +51,7 @@ const showButton = () => {
             </Link>
           </li>
           <li className='nav-item'>
-            <Link to='/Sign Up' className='nav-links' onClick={closeMobileMenu}>
+            <Link to='/Products' className='nav-links' onClick={closeMobileMenu}>
                 Products
             </Link>
           </li>
